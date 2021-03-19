@@ -1,0 +1,95 @@
+* {
+    text-align: center;
+    align-items: center;
+    /* font-family: 'Josefin Slab', serif; */
+}
+
+body {
+    background-color: black;
+}
+.container {
+    position: relative;
+    background-color: #EAEAEA;
+    width:40%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head {
+    position: relative;
+    font-display: unset;
+    text-align: left;
+    margin: 2%;
+}
+
+
+h2 {
+    text-align: justify;
+    font-size: 200%;
+    margin: unset;
+    margin-top: 10%;
+}
+
+.fas {
+    float: right;
+    padding-top: 1%;
+    font-size: 180%;
+}
+
+.nombre {
+    text-align: justify;
+    margin-top: 0%;
+    font-size: 130%;
+}
+
+.fab {
+    position: relative;
+    font-size: 500%;
+    margin-right: 3%;
+    float: left;
+}
+
+.menu {
+    position: absolute;
+    float: right;
+    font-size: 300%;
+}
+
+.box img {
+    width: 100%;
+}
+
+.box {
+    position: relative;
+    background-color: #FEFFFE;
+    width: 100%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;   
+}
+
+.selector {
+    position: relative;
+    font-display: unset;
+    text-align: left;
+    font-size: 200%;
+    margin: 2%;
+}
+.msn {
+    float: right;
+}
+
+p {
+    text-align: justify;
+    margin: 2%;
+}
+
+span {
+    font-weight: bold;
+}
+
+.pie {
+    text-align: center;
+}
